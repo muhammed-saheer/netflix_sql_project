@@ -19,10 +19,10 @@ Key objectives include:
 
 
 # 🧑‍💻 Tools and Skills Used
-**SQL**: For querying and extracting data from the Netflix dataset.
-**PostgreSQL**: The database system used to store and analyze the data.
-**Data Analysis**: SQL joins, aggregation, and filtering techniques to extract insights.
-**Data Transformation**: Data cleaning and processing to get useful insights.
+1. **SQL**: For querying and extracting data from the Netflix dataset.
+2. **PostgreSQL**: The database system used to store and analyze the data.
+3. **Data Analysis**: SQL joins, aggregation, and filtering techniques to extract insights.
+4. **Data Transformation**: Data cleaning and processing to get useful insights.
 
 
 ## Dataset
